@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "bicicleta"
+    },
+    {
+      "id": "2",
+      "nome": "carro"
+    }
+  ],
+  "modelos": [
+    {
+      "id": "1",
+      "modelo": "urbano",
+      "produtoId": "1"
+    },
+    {
+      "id": "2",
+      "modelo": "speed",
+      "produtoId": "1"
+    },
+    {
+      "id": "3",
+      "modelo": "passeio",
+      "produtoId": "1"
+    }
+  ]
+}

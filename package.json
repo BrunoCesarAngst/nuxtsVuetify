@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "server_json": "json-server --watch ./db/db.json --port 3005",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "json-server": "^0.17.0",
+    "sass": "^1.53.0",
+    "vuetify": "^3.0.0-beta.5"
+  }
+}
